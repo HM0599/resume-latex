@@ -15,7 +15,7 @@
 % without any warranty.
 %
 % Created by Trey Hunner and modified by www.LaTeXTemplates.com
-%
+% Huiyu Mo CV 2024 May
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
